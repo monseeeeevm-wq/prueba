@@ -66,6 +66,7 @@ dependencies {
     //Serialización
     implementation 'com.google.code.gson:gson:2.10.1'
     implementation 'org.json:json:20231013'
+    implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml'
     //Utilerias Google
     implementation 'com.google.api-client:google-api-client:2.7.1'
     implementation 'com.google.api-client:google-api-client-jackson2:2.7.1'
